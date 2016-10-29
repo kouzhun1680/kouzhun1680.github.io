@@ -4,5 +4,5 @@
 - name: "中文简历"
   link: "resume.pdf"
 
-- name: "关于"
-  link: "/researcher/"
+- name: "关于其他"
+  link: "researcher"
