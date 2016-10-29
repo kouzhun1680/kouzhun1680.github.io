@@ -1,40 +1,35 @@
-This theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/). Visit her website for more themes [http://themes.3rdwavemedia.com/](http://themes.3rdwavemedia.com/)
+# Researcher
 
+### [Demo Website](https://ankitsultana.me/researcher)
 
-I have made this into a Jekyll Theme.
-**Demo:** [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/)
+A clean, single column, monospace resume template built for jekyll
 
-The default theme would look like this
+### Installation
 
-![online cv Jekyll theme](/assets/images/online-cv-jekyll-theme.png)
+Simply fork the repository and edit away.
 
-The theme is responsive
+### Customization
 
-![online cv responsive Jekyll theme](/assets/images/online-cv-responsive-jekyll-theme.png)
+* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
 
-There are 6 color schemes available
+* You can of course remove `contact.md` if you don't want it
 
-![online cv Jekyll theme](/assets/images/online-cv-jekyll-theme-2.png)
+* To set the heading, edit the `title` variable in `_config.yml`
 
-# Installation: 
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+* To edit the `links` mentioned on the navigation bar, edit the file `_data/nav.yml`
 
-[Watch my video on instlallation](https://www.youtube.com/embed/T2nx6tj-ZH4)
+* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
 
+* You can setup google analytics, by setting `tracking_id` in `_config.yml`
 
-## How to delete old **gh-pages** branch?
-After forking the repository, click on **branches**.
+* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
 
-![delete gh-pages branch](http://blog.webjeda.com/images/delete-github-branch.png)
+```html
+<img class="profile-picture" src="sherlock.jpg">
+```
 
-Delete ``gh-pages`` branch.
-![delete gh-pages branch](http://blog.webjeda.com/images/delete-github-branch-2.png)
+**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
 
-You have to create a new ``gh-pages`` branch using the master branch. Go back to the forked repository and create ``gh-pages`` branch.
+### License
 
-![create gh-pages branch](http://blog.webjeda.com/images/create-gh-pages-branch.JPG)
-
-Now, go to settings and check the **Github Pages** section. You should see a URL where the blog is hosted.
-
-
-Check out for more themes: [**Jekyll Themes**](http://blog.webjeda.com/jekyll-themes)
+[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
