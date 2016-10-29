@@ -1,10 +1,10 @@
-##hahaya's blog
+##Kouzhun1680's blog
 
-欢迎踩点我的博客：[http://hahaya.github.com](http://hahaya.github.com "hahaya's Blog")，Hack in code...
+欢迎来踩：[kouzhun1680.github.oi](kouzhun1680.github.oi "Kouzhun1680's Blog")，网站模板来自[http://hahaya.github.io/build-blog-on-github/]
 
 
 ##Contact me
-__Gmail:__ [hahayacoder@gmail.com](mailto:hahayacoder@gmail.com)
+__Gmail:__ [kouzhun1680@gmail.com](mailto:kouzhun1680@gmail.com)
 
 
 
