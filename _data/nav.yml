@@ -1,8 +1,8 @@
 - name: "联系方式"
   link: "contact"
 
-- name: "中文简历"
+- name: "中文简历/"
   link: "resume.pdf"
 
-- name: "关于其他"
+- name: "关于网站/"
   link: "researcher"
