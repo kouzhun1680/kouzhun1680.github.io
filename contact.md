@@ -3,23 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* 邮件: [kouzhun1680@gmail.com](mailto:kouzhun1680@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* 电话: [+86-13691411680](tel:+86-13691411680)
 
 ---
 
-## Social
+## 地址
+
+> 北京市朝阳区惠新东街10号
+>
+> 对外经济贸易大学汇忠公寓
+>
+
+
+---
+
+## 社交
 
 1. [Facebook](#)
 2. [Twitter](#)
