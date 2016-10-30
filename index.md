@@ -32,7 +32,6 @@ layout: default
 ## 相关链接
 1. [对外经济贸易大学](http://www.uibe.edu.cn)
 2. [国际经济贸易学院](http://site.uibe.edu.cn) 
-3. [Aaron](https://en.wikipedia.org/wiki/Aaron_Swartz) 
 
 
 
