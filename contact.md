@@ -23,6 +23,7 @@ is_contact: true
 
 ## 社交
 
-1.  [Facebook](#)
-2.  [Github](https://github.com/kouzhun1680)
+
+1.  [Github](https://github.com/kouzhun1680)
+2.  [Facebook](#)
 3.  [Researchgate](#)
