@@ -2,44 +2,33 @@
 layout: default
 ---
 
-## About Me
+## 关于自己
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+北京银行各位领导，你们好。
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+我是对外经济贸易大学2013级的应届博士生，刚填报完贵司的求职申请。为了完善申请信息，临时搭了这个简易网站，见笑了。
 
-## Research Interest
+## 研究领域
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+国际金融与开放宏观经济、国际贸易、全球价值链。
 
-## Publications
+## 研究活动
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Li, Daye, Zhun Kou, and Qiankun Sun. "The scale-dependent market trend: Empirical evidences using the lagged DFA method." Physica A: Statistical Mechanics and its Applications” 433 (2015): 26-35.   
+2. The impact of exchange rate volatility on trade structure：Evidence from China.(Working paper)      
+3. Balance sheet recession and trade slowdown: A New Normal?（Working paper）     
+4. 研究项目《中国-以色列自由贸易协定联合可行性研究报告》（商务部课题，2013.12）。      
+5. 研究项目《新时期山东省对外开放新视野》（山东省政府课题，2014.10）。    
+6. 研究项目《中阿经贸关系发展进程-2013年度报告》（宁夏自治区课题，2015.01）。     
 
-## Typography
+## 兴趣爱好
+素食嗜咖啡，喜欢一切简约高效的事物，平时打羽球学大提，偶尔远足。
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## 求职意向
+金融系统内交易型或研究型岗位。
 
-Here is a table
+## 相关链接
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
