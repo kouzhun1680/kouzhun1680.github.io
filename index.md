@@ -30,8 +30,8 @@ layout: default
 金融系统内交易型或研究型岗位。
 
 ## 相关链接
-[对外经济贸易大学]: http://www.uibe.edu.cn/:
-[国际经济贸易学院]: http://site.uibe.edu.cn/
+[对外经济贸易大学]（http://www.uibe.edu.cn/）
+[国际经济贸易学院]（http://site.uibe.edu.cn）
 
 
 
