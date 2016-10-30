@@ -1,8 +1,11 @@
+- name: "相关网站"
+  link: "http://recruit.bankofbeijing.com.cn/"
+
+- name: "中文简历"
+  link: "resume.pdf"  
+
 - name: "联系方式"
   link: "contact"
 
-- name: "中文简历"
-  link: "resume.pdf"
-
-- name: "相关网站"
-  link: "http://recruit.bankofbeijing.com.cn/"
+- name: "Blog"
+  link: "/_post"
