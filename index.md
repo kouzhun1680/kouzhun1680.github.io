@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-北京银行各位领导，你们好。
+各位领导，你们好。
 
 我是对外经济贸易大学2013级的应届博士生，刚填报完贵司的求职申请。为了满足完善申请信息的招聘要求，临时搭了这个网站。
 
@@ -30,5 +30,8 @@ layout: default
 金融系统内交易型或研究型岗位。
 
 ## 相关链接
+[对外经济贸易大学][http://www.uibe.edu.cn/]
+[国际经济贸易学院][http://site.uibe.edu.cn/]
+
 
 
