@@ -1,11 +1,24 @@
+<<<<<<< HEAD
 ﻿- name: "招聘网站"
   link: "http://recruit.bankofbeijing.com.cn/"
 
 - name: "萌新博客"
   link: "/_posts"
+=======
+- name: "招聘网站"
+  link: "http://recruit.bankofbeijing.com.cn/"
+
+- name: "萌新博客"
+  link: "post"
+>>>>>>> 8da757a83087e2f258f25d78430e8ca930acb30e
 
 - name: "中文简历"
   link: "resume.pdf"  
 
 - name: "联系方式"
+<<<<<<< HEAD
   link: "contact"
+=======
+  link: "contact"
+
+>>>>>>> 8da757a83087e2f258f25d78430e8ca930acb30e
