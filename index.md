@@ -16,7 +16,7 @@ layout: default
 
 ## 研究活动
 
-1. Li, Daye, Zhun Kou, and Qiankun Sun. "The scale-dependent market trend: Empirical evidences using the lagged DFA method." Physica A: Statistical Mechanics and its Applications” 433 (2015): 26-35.   
+1. "The scale-dependent market trend: Empirical evidences using the lagged DFA method." Physica A: Statistical Mechanics and its Applications” 433 (2015): 26-35.   
 2. The impact of exchange rate volatility on trade structure：Evidence from China.(Working paper)      
 3. Balance sheet recession and trade slowdown: A New Normal?（Working paper）     
 4. 研究项目《中国-以色列自由贸易协定联合可行性研究报告》（商务部课题，2013.12）。      
